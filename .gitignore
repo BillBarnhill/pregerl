@@ -1,0 +1,7 @@
+*.beam
+.eunit
+deps/*
+ebin/*
+rel/pregerl
+dev
+apps/pregerl/src/*
